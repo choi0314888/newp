@@ -1,0 +1,5 @@
+django>=5.0.1,<6.0.0 # Django 5.0.1 이상 6.0.0 미만
+djangorestframework>=3.14.0,<4.0.0 # Django REST Framework 3.14.0 이상 4.0.0 미만
+psycopg2-binary>=2.9.9,<3.0.0 # Psycopg2: PostgreSQL Connector 2.9.9 이상 3.0.0 미만
+drf-spectacular>=0.27.2,<0.28.0 # DRF-Spectacular 0.27.2 이상 0.28.0 미만
+uwsgi>=2.0.24,<2.1.0 #
